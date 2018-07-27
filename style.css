@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://media.giphy.com/media/wIfjd455ZrzR6/source.gif');
+    background-size: cover;
+}
+h1{
+    font-family: 'Press Start 2P', 'cursive';
+    color:whitesmoke;
+    text-align: center;
+    font-size:72px; 
+    padding: 100px;
+    text-shadow: 2px 2px black;
+}
+#heading{
+    margin:auto;
+}
+#about{
+    border: 2px groove black;
+    background-color: rgba(0,0,0,.50); 
+    margin-left:0px;
+    margin-right:0px;
+    color:whitesmoke;
+    font-size: 35px;
+}
+img{
+    display: flex;
+    flex-direction: column;
+}
+#lis{
+    width: 50%;
+}
+#cup{
+    width: 50%;
+}
+#gta{
+    width: 50%
+}
